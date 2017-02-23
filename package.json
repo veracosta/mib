@@ -2,7 +2,7 @@
     "name": "mib",
     "displayName": "MIB",
     "description": "MIB file",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Veracosta",
     "engines": {
         "vscode": "^1.5.0"
@@ -11,16 +11,25 @@
         "Languages"
     ],
     "contributes": {
-        "languages": [{
-            "id": "mib",
-            "aliases": ["MIB", "mib"],
-            "extensions": [".mib"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "mib",
-            "scopeName": "source.mib",
-            "path": "./syntaxes/MIB.tmLanguage"
-        }]
+        "languages": [
+            {
+                "id": "mib",
+                "aliases": [
+                    "MIB",
+                    "mib"
+                ],
+                "extensions": [
+                    ".mib"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "mib",
+                "scopeName": "source.mib",
+                "path": "./syntaxes/MIB.tmLanguage"
+            }
+        ]
     }
 }
