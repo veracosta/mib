@@ -2,7 +2,7 @@
     "name": "mib",
     "displayName": "MIB",
     "description": "MIB file",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Veracosta",
     "engines": {
         "vscode": "^1.5.0"
