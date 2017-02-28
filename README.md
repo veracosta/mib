@@ -1,4 +1,4 @@
-# MIB syntax highlighting.
+# SNMP MIB syntax highlighting.
 
 This is a syntax highlighting extension for SNMP MIB files.
 

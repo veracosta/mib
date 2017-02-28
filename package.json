@@ -1,7 +1,7 @@
 {
     "name": "mib",
-    "displayName": "MIB",
-    "description": "MIB file",
+    "displayName": "SNMP MIB",
+    "description": "Syntx highlighting for SNMP MIB file",
     "version": "0.0.3",
     "publisher": "Veracosta",
     "engines": {
