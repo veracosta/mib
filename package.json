@@ -19,7 +19,8 @@
                     "mib"
                 ],
                 "extensions": [
-                    ".mib"
+                    ".mib",
+                    ".my"
                 ],
                 "configuration": "./language-configuration.json"
             }
